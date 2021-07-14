@@ -2,7 +2,7 @@
 
 ## Goal
 
-The goal of this project is to practice Collaborative Filtering and recommend a movie to Toby based on his view history and other users who are similar to Toby. 
+The goal of this project is to practice Collaborative Filtering and recommend a movie to Toby based on his view history and review from other users (who are similar to Toby). 
 
 ## Recommendation Engine
 In a nutshell, there are 3 major steps for a recommendation system:
