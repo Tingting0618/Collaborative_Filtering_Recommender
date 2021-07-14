@@ -10,7 +10,7 @@ The goal of this project is to practice Collaborative Filtering and recommend a 
 - Item-based, which measures the similarity between the items that target users rate or interact with and other items.
 
 ## Reference:
-The notebook is based on a [blog post] (http://tungwaiyip.info/2012/Collaborative%20Filtering.html), which is based on the book Toby Seragan's book Programming Collective Intelligence.
+The notebook is based on a [blog post](http://tungwaiyip.info/2012/Collaborative%20Filtering.html)., which is based on the book Toby Seragan's book Programming Collective Intelligence.
 
 ## Learn More
 
