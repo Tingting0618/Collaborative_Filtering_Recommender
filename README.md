@@ -6,9 +6,9 @@ The goal of this project is to: 1) demo a simple Collaborative Filtering process
 
 ## Recommendation Engine
 In a nutshell, there are 3 major steps for a recommendation system:
-- 1 Find candidates (Candidate Generation)
-- 2 Assign score to each candidate (Scoring)
-- 3 Rank candidates based on the highest scores, and also consider freshness, diversity, and fairness (Re-Ranking)
+- 1 Find candidates (**Candidate Generation**)
+- 2 Assign score to each candidate (**Scoring**)
+- 3 Rank candidates based on the highest scores, and also consider freshness, diversity, and fairness (**Re-Ranking**)
 
 ## Collaborative Filtering
 
