@@ -17,7 +17,7 @@ In a nutshell, there are 3 major steps for a recommendation system:
 
 ### Step 1: Find Similar Users to Toby Using Correlation Score
 ![2021-07-14 18_10_53-Window](https://user-images.githubusercontent.com/44503223/125704330-0615b017-e4e4-4172-8277-a088f0fb608e.png)
-In this example, Lisa Rose has the highest similarity with Toby regarding movie ratings. They have similar movie preference.
+In this example, Lisa Rose has the highest similarity with Toby regarding movie ratings. Thus it is reasonable to assume that they have similar movie preferences.
 
 ### Step 2: Assign Scores to Movies that Toby Hasn't Seen
 The score assigning process is based on other movie watchers' scores. And Lisa Rose's score has higher importance on the final score because Lisa is most similar to Toby.
@@ -29,6 +29,7 @@ It seems Toby will like The Night Listener than the rest movies.
 
 
 ## Reference:
+
 The notebook is based on a [blog post](http://tungwaiyip.info/2012/Collaborative%20Filtering.html)., which is based on the book Toby Seragan's book Programming Collective Intelligence.
 
 ## Learn More
