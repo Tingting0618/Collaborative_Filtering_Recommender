@@ -36,7 +36,7 @@ It seems Toby will like The Night Listener than the rest movies.
 
 ## Reference:
 
-The notebook is based on a [blog post](http://tungwaiyip.info/2012/Collaborative%20Filtering.html)., which is based on the book Toby Seragan's book Programming Collective Intelligence.
+The notebook is based on a [blog post](http://tungwaiyip.info/2012/Collaborative%20Filtering.html), which is based on the book Toby Seragan's book Programming Collective Intelligence.
 
 ## Learn More
 
